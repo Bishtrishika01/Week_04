@@ -2,7 +2,7 @@
 Given a list of strings, count the frequency of each element and return the results in a Map<String, Integer>.
 Example:
 Input: ["apple", "banana", "apple", "orange"] → Output: {apple=2, banana=1, orange=1}.*/
-package com.collections;
+package com.collections.listinterface;
 
 import java.util.Arrays;
 import java.util.List;
