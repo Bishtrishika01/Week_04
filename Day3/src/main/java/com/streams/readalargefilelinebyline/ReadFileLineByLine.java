@@ -11,7 +11,7 @@ package com.streams.readalargefilelinebyline;
 
 import java.io.*;
 
-public class ReadAFileLineByLine {
+public class ReadFileLineByLine {
     public static void main(String[] args) {
         //create file path to read
         File filePath = new File("C:\\Users\\lenovo\\Desktop\\Java Fundamental\\Week4\\Day3\\src\\main\\java\\com\\streams\\readalargefilelinebyline\\TestingFile.txt");
